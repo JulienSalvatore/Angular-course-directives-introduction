@@ -1,0 +1,44 @@
+{
+  "folder-color.pathColors": [
+    {
+      "folderPath": "01-starting-project\\src\\app\\app.component.html\\",
+      "color": "foldercolorizer.yellow"
+    },
+    {
+      "folderPath": "01-starting-project\\src\\app\\app.component.css\\",
+      "color": "foldercolorizer.yellow"
+    },
+    {
+      "folderPath": "01-starting-project\\src\\app\\app.component.ts\\",
+      "color": "foldercolorizer.yellow"
+    },
+    {
+      "folderPath": "01-starting-project\\src\\app\\auth\\auth.component.css\\",
+      "color": "foldercolorizer.green"
+    },
+    {
+      "folderPath": "01-starting-project\\src\\app\\auth\\auth.component.html\\",
+      "color": "foldercolorizer.green"
+    },
+    {
+      "folderPath": "01-starting-project\\src\\app\\auth\\auth.component.ts\\",
+      "color": "foldercolorizer.green"
+    },
+    {
+      "folderPath": "01-starting-project\\src\\app\\auth\\auth.model.ts\\",
+      "color": "foldercolorizer.pink"
+    },
+    {
+      "folderPath": "01-starting-project\\src\\app\\auth\\auth.service.ts\\",
+      "color": "foldercolorizer.White"
+    },
+    {
+      "folderPath": "01-starting-project\\src\\app\\safe-link.directive.ts\\",
+      "color": "foldercolorizer.DeepPink"
+    },
+    {
+      "folderPath": "01-starting-project\\src\\app\\auth\\auth.directive.ts\\",
+      "color": "foldercolorizer.blue"
+    }
+  ]
+}
